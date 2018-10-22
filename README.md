@@ -1,1 +1,1 @@
-# eagles-project
+# eagles_project
