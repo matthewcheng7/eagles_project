@@ -1,1 +1,1 @@
-# All files for the TE project goes here
+# All files for the TE project go here
