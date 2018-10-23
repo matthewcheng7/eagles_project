@@ -1,1 +1,1 @@
-# All files for the CB project goes here
+# All files for the CB project go here
