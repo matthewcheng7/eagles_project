@@ -1,1 +1,1 @@
-# All files for the RB project goes here
+# All files for the RB project go here
